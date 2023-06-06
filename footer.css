@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+ 
+.footer{
+    background-color: #2f2542;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: auto;
+    padding: 15px 0px;
+    
+}
+.footer ul{
+    display: flex;
+}
+footer ul li{
+    list-style: none;
+    padding: 5px 15px;
+    color: white;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    color: wheat;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.footer p{
+    font-size: 13px;
+    
+}

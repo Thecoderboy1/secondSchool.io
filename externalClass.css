@@ -1,0 +1,49 @@
+.dispFlex{
+    display: flex;
+}
+.width100{
+    width: 100%;
+}
+.flexDivCenterTop{
+    justify-content: center;
+    
+}
+.flexDivCenterMid{
+    justify-content: center;
+    align-items: center;
+    
+}
+.boldFont{
+    font-weight: bold;
+}
+.flexDirection{
+    flex-direction: column;
+}
+.spaceBetween{
+    justify-content: space-between;
+}
+.alignCenter{
+    align-items: center;
+}
+.white{
+    color: white;
+   
+}
+.btn{
+    padding: 8px 32px ;
+    background-color: transparent;
+    border: 1px solid white;
+    outline: none;
+    color: white;
+    cursor: pointer;
+}
+.hero-btn{
+    color: white;
+    border: none;
+    outline: none;
+    background-color:  #2f2542;
+    padding: 10px 45px;
+}
+.text-color{
+    color: #2f2542;
+}
