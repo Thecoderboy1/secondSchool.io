@@ -55,6 +55,7 @@
  .hero-1{
     height:auto;
     justify-content: space-around;
+     padding-bottom: 80px;
  }
  .right-hero{
     display: block;
